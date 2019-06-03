@@ -30,7 +30,7 @@ This grid needs to be responsive down to mobile.
 
 Each image should have a click event that opens a modal and displays the image centered so you can adimre each creatures individual glory.
 
-The modal should be made by you and not utilize an exteranl libraries.
+The modal should be made by you and not utilize an exteranl libraries (except React).
 The modal should display full screen with a background overlay and the contentent centered in the viewport. Please a nice entrance and exit animation.
 
 Images for your favorite animal are available via json server.
