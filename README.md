@@ -7,32 +7,34 @@ This boilerplate includes
 - Reselect
 - Json server
 
-## Start up
+## Startup
 
-To start the applictaion run
+To start the application run
 `npm install`
 `npm start`
 
-To start the json server run
+To start the JSON server run
 `npm run json-server`
 
 
-## Json server
+## JSON server
 
-The json server includes two tables, one of cat images under `/cats` and one of dog images under `/dogs`.
-The json server will run on port `3001`.
+The JSON server includes two tables, one of cat images under `/cats` and one of dog images under `/dogs`.
+The JSON server will run on port `3001`.
 
 
 # The Project
 
-Your making a site of your favorite type of animal (either a cat or dog obviously) and you want to display a grid of images where each image is centered with a 1:1 aspect ratio.
+
+You're making a site of your favorite type of animal (either a cat or dog obviously) and you want to display a grid of images where each image is centered with a 1:1 aspect ratio.
+
 This grid needs to be responsive down to mobile.
 
-Each image should have a click event that opens a modal and displays the image centered so you can adimre each creatures individual glory.
+Each image should have a click event that opens a modal and displays the image centered so you can admire each creature's glory.
 
-The modal should be made by you and not utilize an exteranl libraries (except React).
-The modal should display full screen with a background overlay and the contentent centered in the viewport. Please a nice entrance and exit animation.
+The modal should be made by you and not utilize an external libraries (except React).
+The modal should display full screen with a background overlay and the content centered in the viewport. Please add a nice entrance and exit animation.
 
-Images for your favorite animal are available via json server.
+Images for your favorite animal are available via JSON server.
 
-You can add any additional flair to you website as well as tests if you have time.
+You can add any additional flair to Your website as well as tests if you have time.
